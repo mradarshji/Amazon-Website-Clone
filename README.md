@@ -1,4 +1,4 @@
-# Amazon Website Clone
+# Amazon Website UI Clone
 <br>
 • I cloned Amazon Website UI using HTML and CSS.
 <br>
