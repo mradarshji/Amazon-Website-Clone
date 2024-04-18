@@ -1,5 +1,4 @@
 # Amazon Website UI Clone
-<br>
 • I cloned Amazon Website UI using HTML and CSS.
 <br>
 • Developed a well-structured HTML layout to mirror the Amazon website’s page hierarchy and content
